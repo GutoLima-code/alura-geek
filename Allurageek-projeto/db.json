@@ -1,0 +1,28 @@
+{
+    "produtos": [
+      {
+        "id": 1,
+        "titulo": "Alura Geek - SWSH09: Brilliant Stars (SWSH09)",
+        "preco": "R$ 25,00",
+        "imagem": "./img/alurageek-card-2"
+      },
+      {
+        "id": 2,
+        "titulo": "Alura geek ex - Prize Pack Series Cards",
+        "preco": "R$65,00",
+        "imagem": "./img/alurageek-card.webp"
+      },
+      {
+        "id": 3,
+        "titulo": "o",
+        "preco": "R$120,00",
+        "imagem": "./img/alurageek-funko.jpg"
+      },
+      {
+        "id": 4,
+        "titulo": "Alura Geek figure",
+        "preco": "R$350,00",
+        "imagem": "./img/alurageek-card.png"
+      }
+    ]
+  }
